@@ -1,0 +1,10 @@
+requests
+Pillow
+numpy
+pandas
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
